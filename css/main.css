@@ -1,0 +1,109 @@
+@import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
+
+body {
+    font-family: 'Nanum Gothic', serif;
+    font-size: 12px;
+    color: white;
+    background: url('../img/bg01.jpg') top center;
+    background-size: 100%;
+}
+
+a {
+    text-align: center;
+    text-decoration: none;
+    color: white;
+}
+
+.header {
+    width: 100%;
+    margin: 20px 20px 0 20px;
+    text-transform: uppercase;
+    z-index: 1;
+    position: fixed;
+}
+
+.menu {
+    height: 40px;
+    border: 1px solid black;
+    background-color: rgba(0, 0, 0, 0.4)
+}
+
+.menuleft {
+    float: left;
+    width: 150px;
+    left: -50px;
+}
+
+.menumiddle {
+    left: 32%;
+    width: 424px;
+    position: absolute;
+}
+
+.menuright {
+    float: right;
+    right: 40px;
+    width: 300px;
+    position: relative;
+}
+
+header div a {
+    padding: 13px 20px 13px 20px;
+    display: inline-block;
+    transition: all .3s;
+}
+
+header div a:hover {
+    background-color: rgba(0, 0, 0, 0.4)
+}
+
+header div a:active {
+    background-color: black;
+}
+
+.icon {
+    padding: 7px 4px 7px 4px;
+    margin-top:-10px;
+}
+
+
+/*.iconlink{*/
+/*padding: 130px 20px 13px 20px;*/
+/*display: inline-block;*/
+/*transition: all .3s;*/
+/*}*/
+.clearfix:before,
+.clearfix:after {
+    content: " "; /* 1 */
+    display: table; /* 2 */
+}
+
+.clearfix:after {
+    clear: both;
+}
+
+/*
+ * For IE 6/7 only
+ * Include this rule to trigger hasLayout and contain floats.
+ */
+.clearfix {
+    *zoom: 1;
+}
+
+/*.align-middle {*/
+/*display: inline-block;*/
+/*}*/
+
+/*.align-middle:before {*/
+/*width: 0;*/
+/*height: 100%;*/
+/*content: '';*/
+/*vertical-align: middle;*/
+/*display: inline-block;*/
+/*margin-left: -0.25em;*/
+/*}*/
+
+/*.align-block {*/
+/*display: inline-block;*/
+/*vertical-align: middle;*/
+/*}*/
