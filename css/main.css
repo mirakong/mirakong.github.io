@@ -1,60 +1,89 @@
 @import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
 
 body {
-    font-family: 'Nanum Gothic', serif;
+    font-family: 'Lato', 'nanum gothic', sans-serifserif;
     font-size: 12px;
-    color: white;
-    background: url('../img/bg01.jpg') top center;
-    background-size: 100%;
+    color: black;
+    word-wrap: break-word;
 }
 
 a {
     text-align: center;
     text-decoration: none;
-    color: white;
+    color: black;
+}
+
+/*div {*/
+    /*width: 100%}*/
+/*}*/
+
+#main img{
+   width: 100%;
+
+}
+
+.arrow{
+    left: 94%;
+    width: 0;
+    height: 0;
+    bottom: 25px;
+    position: fixed;
+    border-style: solid;
+    border-width: 15px 15px 0 15px;
+    border-color: black transparent transparent transparent;
+    }
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid black;
+    margin: 1em 0;
+    padding: 0;
 }
 
 .header {
     width: 100%;
-    margin: 20px 20px 0 20px;
-    text-transform: uppercase;
+    /* text-transform: uppercase; */
     z-index: 1;
     position: fixed;
+    height: 85px;
+    text-align: center;
+    top: 0;
+    left: 0;
+    right: 0;
 }
 
 .menu {
     height: 40px;
     border: 1px solid black;
-    background-color: rgba(0, 0, 0, 0.4)
+    background-color: rgba(255, 255, 255, 0.8)
 }
 
 .menuleft {
-    float: left;
-    width: 150px;
-    left: -50px;
-}
-
-.menumiddle {
-    left: 32%;
-    width: 424px;
-    position: absolute;
+    margin: 10px;
 }
 
 .menuright {
-    float: right;
-    right: 40px;
-    width: 300px;
-    position: relative;
+    margin:10px;
+    bottom: 60px;
+}
+
+.menurignt:hover {
+    border-color: lightseagreen;
 }
 
 header div a {
-    padding: 13px 20px 13px 20px;
+    padding: 0 20px;
+    line-height: 40px;
     display: inline-block;
     transition: all .3s;
 }
 
 header div a:hover {
-    background-color: rgba(0, 0, 0, 0.4)
+    background-color: rgba(255, 255, 255, 1);
+    color: lightseagreen;
+    text-decoration: none;
 }
 
 header div a:active {
@@ -62,16 +91,164 @@ header div a:active {
 }
 
 .icon {
-    padding: 7px 4px 7px 4px;
-    margin-top:-10px;
+    margin-top: 0px;
+    padding: 0 5px;
+    /* position: relative; */
+    /* bottom: 0px; */
+}
+
+section#work header {
+    text-align: center;
+}
+
+.title {
+    letter-spacing: 4px;
+    margin: 55px 0;
+    text-align: center;
+    padding: 0 20px;
+    line-height: 40px;
+    display: inline-block;
 }
 
 
-/*.iconlink{*/
-/*padding: 130px 20px 13px 20px;*/
-/*display: inline-block;*/
-/*transition: all .3s;*/
-/*}*/
+section#work ul.x-members {
+    margin-top: 44px;
+}
+
+section#work ul.x-members li {
+    float: left;
+    width: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+section#work ul.x-members li a {
+    width: 100%;
+    min-height: 200px;
+    display: inline-block;
+}
+
+section#work ul.x-members li .thumb {
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-bottom: 25px;
+    height: 300px;
+}
+
+section#work ul.x-members li .work001 {
+    background-image: url('../img/work/Artwork_A846007_8.png');
+}
+
+section#work ul.x-members li .work002 {
+    background-image: url('../img/work/Artwork_A846007_8.png');
+
+}
+
+section#work ul.x-members li .work003 {
+    background-image: url('../img/work/Artwork_A846007_8.png');
+
+}
+
+section#work ul.x-members li .work004 {
+    background-image: url('../img/work/Artwork_A846007_8.png');
+
+}
+
+section#work ul.x-members li .x-appearance {
+    text-align: left;
+}
+
+section#work ul.x-members li .x-appearance dt {
+    margin-bottom: 10px;
+    font-size: 14px;
+}
+
+section#work ul.x-members li .x-appearance dd {
+    font-size: 11px;
+    line-height: 18px;
+}
+
+section#work ul.x-members li .x-about p {
+    font-size: 12px;
+    padding-bottom: 10px;
+    font-weight: 300;
+    text-align: left;
+    line-height: 170%;
+}
+
+#profile {
+    text-align: center;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+#profile ul.x-members li .x-appearance dd {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: left;
+}
+
+#profile ul.x-members li {
+    float: left;
+    width: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+
+@media only screen and (min-width: 65em) {
+    .menuleft {
+        left: 10px;
+        width: 550px;
+        float: left;
+        right: 0%;
+        margin: 20px;
+
+    }
+
+    .menuright {
+        right: 10px;
+        left: 0%;
+        width: 350px;
+        float: right;
+        top: 10px;
+        margin: 20px;
+    }
+
+
+    section#work ul.x-members li {
+        width: 33.3%;
+    }
+
+
+    section#work .x-container {
+        max-width: 1200px;
+        padding: 44px 0 88px 0;
+        margin: 0 auto;
+    }
+
+    /*section#work ul.x-members li a {*/
+        /*height: 300px;*/
+    /*}*/
+
+    section#work ul.x-members li .thumb {
+        background-image: url('../img/work/Artwork_A846007_8.png');
+        background-size: 100%;
+        background-repeat: no-repeat;
+        background-size: auto 100%;
+        background-position: center center;
+        height:300px;
+
+
+
+    }
+}
+}
+
+
 .clearfix:before,
 .clearfix:after {
     content: " "; /* 1 */
