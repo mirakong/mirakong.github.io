@@ -184,10 +184,9 @@ section#work ul.x-members li .x-about p {
     margin: 0 auto;
 }
 
-#profile ul.x-members li .x-appearance dd {
+#profile ul.x-members li .x-appearance .profiletext {
     max-width: 600px;
     margin: 0 auto;
-    text-align: left;
 }
 
 #profile ul.x-members li {
