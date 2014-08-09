@@ -13,13 +13,20 @@ a {
     color: black;
 }
 
+
+p {
+    text-align: left;
+    font-size: 12px;
+    line-height: 24px;
+    letter-spacing: 0.4px;
+}
+
 /*div {*/
     /*width: 100%}*/
 /*}*/
 
 #main img{
    width: 100%;
-
 }
 
 .arrow{
@@ -31,7 +38,7 @@ a {
     border-style: solid;
     border-width: 15px 15px 0 15px;
     border-color: black transparent transparent transparent;
-    }
+}
 
 hr {
     display: block;
@@ -184,12 +191,25 @@ section#work ul.x-members li .x-about p {
     margin: 0 auto;
 }
 
-#profile ul.x-members li .x-appearance .profiletext {
-    max-width: 600px;
+
+
+#profile ul.x-members li {
+    float: left;
+    width: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+#link {
+    text-align: center;
+    max-width: 1200px;
     margin: 0 auto;
 }
 
-#profile ul.x-members li {
+
+
+#link ul.x-members li {
     float: left;
     width: 100%;
     padding: 20px;
@@ -239,13 +259,29 @@ section#work ul.x-members li .x-about p {
         background-repeat: no-repeat;
         background-size: auto 100%;
         background-position: center center;
-        height:300px;
-
-
+        height: 300px;
 
     }
-}
-}
+
+
+
+    #profile ul.x-members li.x-appearance {
+        float: left;
+        padding: 20px;
+        box-sizing: border-box;
+        text-align: center;
+        width: 33.3%;
+    }
+
+    #link ul.x-members li.x-appearance {
+        float: left;
+        padding: 20px;
+        box-sizing: border-box;
+        text-align: center;
+        width: 33.3%;
+    }
+
+    }
 
 
 .clearfix:before,
