@@ -89,12 +89,12 @@ header div a {
 
 header div a:hover {
     background-color: rgba(255, 255, 255, 1);
-    color: lightseagreen;
     text-decoration: none;
 }
 
 header div a:active {
     background-color: black;
+    color: white;
 }
 
 .icon {
@@ -110,11 +110,15 @@ section#work header {
 
 .title {
     letter-spacing: 4px;
-    margin: 55px 0;
+    margin: 100px 0 0 0;
     text-align: center;
     padding: 0 20px;
     line-height: 40px;
     display: inline-block;
+}
+
+.x-container {
+    margin: 100px 0 0 0;
 }
 
 
@@ -149,17 +153,17 @@ section#work ul.x-members li .work001 {
 }
 
 section#work ul.x-members li .work002 {
-    background-image: url('../img/work/Artwork_A846007_8.png');
+    background-image: url('../img/work/onion.jpg');
 
 }
 
 section#work ul.x-members li .work003 {
-    background-image: url('../img/work/Artwork_A846007_8.png');
+    background-image: url('../img/work/Piecesofbrokenglass-mirakkong.jpg');
 
 }
 
 section#work ul.x-members li .work004 {
-    background-image: url('../img/work/Artwork_A846007_8.png');
+    background-image: url('../img/work/xd_mirakkong16.jpg');
 
 }
 
@@ -254,7 +258,6 @@ section#work ul.x-members li .x-about p {
     /*}*/
 
     section#work ul.x-members li .thumb {
-        background-image: url('../img/work/Artwork_A846007_8.png');
         background-size: 100%;
         background-repeat: no-repeat;
         background-size: auto 100%;
