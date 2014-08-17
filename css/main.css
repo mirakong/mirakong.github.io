@@ -27,6 +27,7 @@ p {
 
 
 #main div{
+    width: 100%;
     height: 1000px;
     background-image: url('../img/bg01.jpg');
     background-size: auto 100%;
