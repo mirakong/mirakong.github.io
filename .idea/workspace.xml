@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8aa78c82-9817-48fd-bb3e-39d2a8bf1ced" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="portfolio.iws" />
@@ -32,8 +31,8 @@
           <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.04360465" vertical-offset="30" max-vertical-offset="3600">
-                  <caret line="4" column="57" selection-start-line="4" selection-start-column="57" selection-end-line="4" selection-end-column="57" />
+                <state vertical-scroll-proportion="0.0872093" vertical-offset="0" max-vertical-offset="3600">
+                  <caret line="4" column="65" selection-start-line="4" selection-start-column="65" selection-end-line="4" selection-end-column="65" />
                   <folding />
                 </state>
               </provider>
@@ -258,7 +257,11 @@
       <created>1408211908826</created>
       <updated>1408211908826</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="메타테그 테스트">
+      <created>1408241508733</created>
+      <updated>1408241508733</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -303,7 +306,8 @@
     <MESSAGE value="첫번째 홈페이지 푸시" />
     <MESSAGE value="네번쨰 홈페이지 푸쉬- 중간점검을 위한" />
     <MESSAGE value="다섯번째 - css 다이어트, 푸터 추가, 아이콘 위치조정 시범삼아, 모바일 사이즈조절 추가" />
-    <option name="LAST_COMMIT_MESSAGE" value="다섯번째 - css 다이어트, 푸터 추가, 아이콘 위치조정 시범삼아, 모바일 사이즈조절 추가" />
+    <MESSAGE value="메타테그 테스트" />
+    <option name="LAST_COMMIT_MESSAGE" value="메타테그 테스트" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -523,8 +527,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.04360465" vertical-offset="30" max-vertical-offset="3600">
-          <caret line="4" column="57" selection-start-line="4" selection-start-column="57" selection-end-line="4" selection-end-column="57" />
+        <state vertical-scroll-proportion="0.0872093" vertical-offset="0" max-vertical-offset="3600">
+          <caret line="4" column="65" selection-start-line="4" selection-start-column="65" selection-end-line="4" selection-end-column="65" />
           <folding />
         </state>
       </provider>
