@@ -201,7 +201,7 @@ dd {
     display: inline-block;
 }
 
-/*websize*/
+/*web size*/
 @media only screen and (min-width: 65em) {
     .menuleft {
         width: 550px;
