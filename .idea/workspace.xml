@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8aa78c82-9817-48fd-bb3e-39d2a8bf1ced" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/link_blog3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/link_insta3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/link_pin3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/link_vimeo3.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="portfolio.iws" />
@@ -31,8 +36,8 @@
           <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.13657056" vertical-offset="0" max-vertical-offset="3870">
-                  <caret line="6" column="47" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
+                <state vertical-scroll-proportion="0.29438543" vertical-offset="3001" max-vertical-offset="3735">
+                  <caret line="213" column="66" selection-start-line="213" selection-start-column="66" selection-end-line="213" selection-end-column="66" />
                   <folding />
                 </state>
               </provider>
@@ -45,8 +50,8 @@
           <file leaf-file-name="main.css" pinned="false" current="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/css/main.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.2635432" vertical-offset="135" max-vertical-offset="4110">
-                  <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+                <state vertical-scroll-proportion="0.39824304" vertical-offset="583" max-vertical-offset="4320">
+                  <caret line="57" column="33" selection-start-line="57" selection-start-column="33" selection-end-line="57" selection-end-column="33" />
                   <folding />
                 </state>
               </provider>
@@ -289,7 +294,11 @@
       <created>1408280489818</created>
       <updated>1408280489818</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="메인화면테스트">
+      <created>1408280573203</created>
+      <updated>1408280573203</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -548,16 +557,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2635432" vertical-offset="135" max-vertical-offset="4110">
-          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        <state vertical-scroll-proportion="0.39824304" vertical-offset="583" max-vertical-offset="4320">
+          <caret line="57" column="33" selection-start-line="57" selection-start-column="33" selection-end-line="57" selection-end-column="33" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.13657056" vertical-offset="0" max-vertical-offset="3870">
-          <caret line="6" column="47" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
+        <state vertical-scroll-proportion="0.29438543" vertical-offset="3001" max-vertical-offset="3735">
+          <caret line="213" column="66" selection-start-line="213" selection-start-column="66" selection-end-line="213" selection-end-column="66" />
           <folding />
         </state>
       </provider>
