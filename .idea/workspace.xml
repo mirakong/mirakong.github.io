@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8aa78c82-9817-48fd-bb3e-39d2a8bf1ced" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -32,8 +31,8 @@
           <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.34294385" vertical-offset="14" max-vertical-offset="3600">
-                  <caret line="16" column="48" selection-start-line="16" selection-start-column="48" selection-end-line="16" selection-end-column="48" />
+                <state vertical-scroll-proportion="0.4339909" vertical-offset="14" max-vertical-offset="3600">
+                  <caret line="20" column="55" selection-start-line="20" selection-start-column="55" selection-end-line="20" selection-end-column="55" />
                   <folding />
                 </state>
               </provider>
@@ -46,8 +45,8 @@
           <file leaf-file-name="main.css" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/css/main.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.2635432" vertical-offset="255" max-vertical-offset="4110">
-                  <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+                <state vertical-scroll-proportion="0.5270864" vertical-offset="135" max-vertical-offset="4095">
+                  <caret line="33" column="33" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
                   <folding />
                 </state>
               </provider>
@@ -266,7 +265,11 @@
       <created>1408241702804</created>
       <updated>1408241702804</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="메인화면테스트">
+      <created>1408247055540</created>
+      <updated>1408247055540</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -312,7 +315,8 @@
     <MESSAGE value="네번쨰 홈페이지 푸쉬- 중간점검을 위한" />
     <MESSAGE value="다섯번째 - css 다이어트, 푸터 추가, 아이콘 위치조정 시범삼아, 모바일 사이즈조절 추가" />
     <MESSAGE value="메타테그 테스트" />
-    <option name="LAST_COMMIT_MESSAGE" value="메타테그 테스트" />
+    <MESSAGE value="메인화면테스트" />
+    <option name="LAST_COMMIT_MESSAGE" value="메인화면테스트" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -524,16 +528,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.34294385" vertical-offset="14" max-vertical-offset="3600">
-          <caret line="16" column="48" selection-start-line="16" selection-start-column="48" selection-end-line="16" selection-end-column="48" />
+        <state vertical-scroll-proportion="0.4339909" vertical-offset="14" max-vertical-offset="3600">
+          <caret line="20" column="55" selection-start-line="20" selection-start-column="55" selection-end-line="20" selection-end-column="55" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2635432" vertical-offset="255" max-vertical-offset="4110">
-          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+        <state vertical-scroll-proportion="0.5270864" vertical-offset="135" max-vertical-offset="4095">
+          <caret line="33" column="33" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
           <folding />
         </state>
       </provider>
