@@ -28,7 +28,7 @@ p {
 #main div{
     width: 100%;
     height: 600px;
-    background-image: url('../img/bg01.jpg');
+    background-image: url('../img/bg01.gif');
     background-size: auto 100%;
     background-position: center;
     background-repeat: no-repeat;
@@ -76,7 +76,7 @@ hr {
 .menu {
     height: 40px;
     border: 1px solid black;
-    background-color: rgba(0, 0, 0, 0.7)
+    background-color: rgba(0, 0, 0, 0.6)
 }
 
 .menuleft {
@@ -100,9 +100,9 @@ header div a {
 }
 
 header div a:hover {
-    background-color: rgba(255, 255, 255, 1);
+    background-color: rgba(0, 0, 0, 1);
     text-decoration: none;
-    color: black;
+    color: white;
 }
 
 header div a:active {
@@ -112,6 +112,11 @@ header div a:active {
 
 .icon {
     padding: 0 5px;
+}
+
+.icon img{
+    max-width: 24px;
+    height: auto;
 }
 
 

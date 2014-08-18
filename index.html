@@ -16,7 +16,8 @@
 
     </div>
     <div class="menu menuright">
-        <a href="index.html#work">Newest</a>
+        <a href="index.html#work" onclick="toggle_visibility('all');">all</a>
+
         <a href="index.html#work">for hand</a>
         <a href="index.html#work">for memory</a>
         <a href="index.html#work">for client</a>
@@ -34,7 +35,7 @@
     </header>
     <div class="container">
         <ul class="liststyle clearfix">
-            <li>
+            <li class="all">
                 <div class="thumb work001"></div>
                 <dl>
                     <dt>일인용 *혼자서만 보세요*</dt>
@@ -231,14 +232,27 @@
 <footer>
     <div id="footer">
         <div>
-            <a class="icon" href="http://mirakong729.blog.me" target="_blank"><img src="img/link_blog3.png"></a>
-            <a class="icon" href="http://www.pinterest.com/mirakong/" target="_blank"><img src="img/link_pin3.png"></a>
-            <a class="icon" href="http://instagram.com/mirakkong" target="_blank"><img src="img/link_insta3.png"></a>
-            <a class="icon" href="https://vimeo.com/mirakkong" target="_blank"><img src="img/link_vimeo3.png"></a>
+            <a class="icon" href="http://mirakong729.blog.me" target="_blank"><img src="img/link_blog2.png"></a>
+            <a class="icon" href="http://www.pinterest.com/mirakong/" target="_blank"><img src="img/link_pin2.png"></a>
+            <a class="icon" href="http://instagram.com/mirakkong" target="_blank"><img src="img/link_insta2.png"></a>
+            <a class="icon" href="https://vimeo.com/mirakkong" target="_blank"><img src="img/link_vimeo2.png"></a>
             <p>contact: mirakong729@naver.com</p>
             <p>copyright Ⓒ 2014 by Mira Kong, all rights reserved.</p>
         </div>
     </div>
 </footer>
 </body>
+
+
+
 </html>
+
+<script type="text/javascript">
+    function toggle_visibility(all) {
+        var e = document.getElementsByClassName(all);
+        if(e.style.display == 'list-item')
+            e.style.display = 'none';
+        else
+            e.style.display = 'list-item';
+    }
+</script>
