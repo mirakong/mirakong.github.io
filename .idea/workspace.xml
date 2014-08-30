@@ -1,17 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8aa78c82-9817-48fd-bb3e-39d2a8bf1ced" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/bg01.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/img_profile.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/work/Artwork_A846007_8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/work/Piecesofbrokenglass-mirakkong.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/work/onion.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/work/xd_mirakkong16.jpg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+    <list default="true" id="8aa78c82-9817-48fd-bb3e-39d2a8bf1ced" name="Default" comment="여덟번째">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/work/1202_omc_sitcafe/001.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/work/1010_discrepancy/05.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/work/1211_Perfect_Single_family/Artwork_A846007_8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/work/1311_travellog/IMG_5119_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/work/1106_500diary/IMG_8667-01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/work/1105_gardenofdelight/IMG_9756-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/work/1112_lghausys/IMG_9836.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/work/1000_finearts/Piecesofbrokenglass-mirakkong.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/work/1000_finearts/aslide_mirakkong.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/work/0906_frame/frame8-mirakkong.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/work/1104_mirrorball/hongdae_mirakkong05.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/img_profile2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/work/1000_finearts/mirrorball_mirakkong.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/work/1103_you_onion_me_mira/onion.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/work/0900_railroad/railroad4_mirakkong.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/work/1202_xd_lujingren/xd_mirakkong16.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/portfolio.iml" afterPath="$PROJECT_DIR$/.idea/portfolio.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="portfolio.iws" />
@@ -37,11 +44,11 @@
     <splitter split-orientation="horizontal" split-proportion="0.540249">
       <split-first>
         <leaf>
-          <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+          <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.43247345" vertical-offset="360" max-vertical-offset="5715">
-                  <caret line="43" column="13" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
+                <state vertical-scroll-proportion="0.47799698" vertical-offset="0" max-vertical-offset="5715">
+                  <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
                   <folding />
                 </state>
               </provider>
@@ -51,13 +58,13 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="main.css" pinned="false" current="false" current-in-tab="true">
+          <file leaf-file-name="main.css" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/css/main.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.9593496" vertical-offset="2037" max-vertical-offset="5070">
-                  <caret line="183" column="0" selection-start-line="167" selection-start-column="24" selection-end-line="183" selection-end-column="0" />
+                <state vertical-scroll-proportion="0.5691057" vertical-offset="0" max-vertical-offset="5070">
+                  <caret line="28" column="33" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
                   <folding>
-                    <marker date="1408897334000" expanded="true" signature="1889:1902" placeholder="..." />
+                    <marker date="1409383188000" expanded="true" signature="1899:1912" placeholder="..." />
                   </folding>
                 </state>
               </provider>
@@ -80,8 +87,8 @@
       <list>
         <option value="$PROJECT_DIR$/css/reset.css" />
         <option value="$PROJECT_DIR$/profile.html" />
-        <option value="$PROJECT_DIR$/css/main.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/main.css" />
       </list>
     </option>
   </component>
@@ -190,6 +197,28 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="1112_lghausys" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="portfolio" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mirakong.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="work" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="0900_railroad" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -346,18 +375,23 @@
       <created>1408381595358</created>
       <updated>1408381595358</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="여덟번째">
+      <created>1409382883117</created>
+      <updated>1409382883117</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="874" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32991013" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16319445" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16319445" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -367,7 +401,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32991013" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32991013" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -396,7 +429,8 @@
     <MESSAGE value="여섯번째 전체 색감 조정" />
     <MESSAGE value="여섯번째 최종 / 이제 모바일 메뉴랑 자바스크립트 hide and show 남아따!!" />
     <MESSAGE value="일곱번째.. 자바 스크립트 오류는 해결 아직 못함ㅠㅠ" />
-    <option name="LAST_COMMIT_MESSAGE" value="일곱번째.. 자바 스크립트 오류는 해결 아직 못함ㅠㅠ" />
+    <MESSAGE value="여덟번째" />
+    <option name="LAST_COMMIT_MESSAGE" value="여덟번째" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -423,7 +457,7 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4935">
           <caret line="275" column="9" selection-start-line="275" selection-start-column="9" selection-end-line="275" selection-end-column="9" />
           <folding>
-            <marker date="1408897334000" expanded="true" signature="1889:1902" placeholder="..." />
+            <marker date="1409383188000" expanded="true" signature="1899:1912" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -448,7 +482,7 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4335">
           <caret line="192" column="16" selection-start-line="192" selection-start-column="16" selection-end-line="192" selection-end-column="16" />
           <folding>
-            <marker date="1408897334000" expanded="true" signature="1889:1902" placeholder="..." />
+            <marker date="1409383188000" expanded="true" signature="1899:1912" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -466,7 +500,7 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="2" max-vertical-offset="2040">
           <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
           <folding>
-            <marker date="1408897334000" expanded="true" signature="1889:1902" placeholder="..." />
+            <marker date="1409383188000" expanded="true" signature="1899:1912" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -484,7 +518,7 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="495" max-vertical-offset="2025">
           <caret line="52" column="1" selection-start-line="52" selection-start-column="1" selection-end-line="52" selection-end-column="1" />
           <folding>
-            <marker date="1408897334000" expanded="true" signature="1889:1902" placeholder="..." />
+            <marker date="1409383188000" expanded="true" signature="1899:1912" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -510,7 +544,7 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2025">
           <caret line="52" column="1" selection-start-line="52" selection-start-column="1" selection-end-line="52" selection-end-column="1" />
           <folding>
-            <marker date="1408897334000" expanded="true" signature="1889:1902" placeholder="..." />
+            <marker date="1409383188000" expanded="true" signature="1899:1912" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -536,7 +570,7 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2025">
           <caret line="39" column="25" selection-start-line="39" selection-start-column="25" selection-end-line="39" selection-end-column="25" />
           <folding>
-            <marker date="1408897334000" expanded="true" signature="1889:1902" placeholder="..." />
+            <marker date="1409383188000" expanded="true" signature="1899:1912" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -598,21 +632,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.css">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.9593496" vertical-offset="2037" max-vertical-offset="5070">
-          <caret line="183" column="0" selection-start-line="167" selection-start-column="24" selection-end-line="183" selection-end-column="0" />
-          <folding>
-            <marker date="1408897334000" expanded="true" signature="1889:1902" placeholder="..." />
-          </folding>
+        <state vertical-scroll-proportion="0.47799698" vertical-offset="0" max-vertical-offset="5715">
+          <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.43247345" vertical-offset="360" max-vertical-offset="5715">
-          <caret line="43" column="13" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
-          <folding />
+        <state vertical-scroll-proportion="0.5691057" vertical-offset="0" max-vertical-offset="5070">
+          <caret line="28" column="33" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
+          <folding>
+            <marker date="1409383188000" expanded="true" signature="1899:1912" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
