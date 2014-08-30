@@ -2,10 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8aa78c82-9817-48fd-bb3e-39d2a8bf1ced" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/work/1404_whoami/digitalwondering_mirakong01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/work/1406_xd24/work006.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/work/1211_PerfectSinglefamily/Artwork_A846007_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/work/1211_PerfectSinglefamily/Artwork_A846007_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/work/1211_PerfectSinglefamily/Artwork_A846007_3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/work/1211_PerfectSinglefamily/Artwork_A846007_4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/work/1211_PerfectSinglefamily/Artwork_A846007_5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/work/1211_PerfectSinglefamily/Artwork_A846007_6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/work/1211_PerfectSinglefamily/Artwork_A846007_7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/work/1211_PerfectSinglefamily/Artwork_A846007_8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/work/1211_PerfectSinglefamily/Artwork_A846007_9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1211_PerfectSingleFamily.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="portfolio.iws" />
@@ -31,11 +38,21 @@
     <splitter split-orientation="horizontal" split-proportion="0.540249">
       <split-first>
         <leaf>
-          <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+          <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.5007587" vertical-offset="0" max-vertical-offset="7530">
-                  <caret line="22" column="55" selection-start-line="22" selection-start-column="55" selection-end-line="22" selection-end-column="55" />
+                <state vertical-scroll-proportion="-3.607595" vertical-offset="1275" max-vertical-offset="7530">
+                  <caret line="104" column="20" selection-start-line="104" selection-start-column="20" selection-end-line="104" selection-end-column="20" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="1211_PerfectSingleFamily.html" pinned="false" current="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/1211_PerfectSingleFamily.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.5168067" vertical-offset="141" max-vertical-offset="1110">
+                  <caret line="34" column="50" selection-start-line="34" selection-start-column="50" selection-end-line="34" selection-end-column="50" />
                   <folding />
                 </state>
               </provider>
@@ -45,11 +62,11 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="main.css" pinned="false" current="false" current-in-tab="true">
+          <file leaf-file-name="main.css" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/css/main.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.54353935" vertical-offset="2193" max-vertical-offset="6000">
-                  <caret line="172" column="44" selection-start-line="172" selection-start-column="44" selection-end-line="172" selection-end-column="44" />
+                <state vertical-scroll-proportion="0.1474719" vertical-offset="0" max-vertical-offset="6000">
+                  <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
                   <folding>
                     <marker date="1409389161000" expanded="true" signature="1953:1966" placeholder="..." />
                   </folding>
@@ -75,6 +92,8 @@
         <option value="$PROJECT_DIR$/css/reset.css" />
         <option value="$PROJECT_DIR$/profile.html" />
         <option value="$PROJECT_DIR$/css/main.css" />
+        <option value="$PROJECT_DIR$/1407_happy.html" />
+        <option value="$PROJECT_DIR$/1211_PerfectSingleFamily.html" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -569,11 +588,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img/work/1211_PerfectSinglefamily" />
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/img/work/1404_whoami" />
       <recent name="$PROJECT_DIR$/img/work/1406_xd24" />
       <recent name="$PROJECT_DIR$/img/work/1010_discrepancy" />
-      <recent name="$PROJECT_DIR$/img/work/1308_Indonesia" />
-      <recent name="$PROJECT_DIR$/img/work/1307_japan" />
     </key>
   </component>
   <component name="RunManager">
@@ -706,7 +725,11 @@
       <created>1409388563695</created>
       <updated>1409388563695</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="아홉번째 - 발표전마지막">
+      <created>1409389346661</created>
+      <updated>1409389346661</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -758,7 +781,8 @@
     <MESSAGE value="일곱번째.. 자바 스크립트 오류는 해결 아직 못함ㅠㅠ" />
     <MESSAGE value="여덟번째" />
     <MESSAGE value="여덟번째_이미지" />
-    <option name="LAST_COMMIT_MESSAGE" value="여덟번째_이미지" />
+    <MESSAGE value="아홉번째 - 발표전마지막" />
+    <option name="LAST_COMMIT_MESSAGE" value="아홉번째 - 발표전마지막" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -960,21 +984,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.css">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.54353935" vertical-offset="2193" max-vertical-offset="6000">
-          <caret line="172" column="44" selection-start-line="172" selection-start-column="44" selection-end-line="172" selection-end-column="44" />
-          <folding>
-            <marker date="1409389161000" expanded="true" signature="1953:1966" placeholder="..." />
-          </folding>
+        <state vertical-scroll-proportion="-3.607595" vertical-offset="1275" max-vertical-offset="7530">
+          <caret line="104" column="20" selection-start-line="104" selection-start-column="20" selection-end-line="104" selection-end-column="20" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/1211_PerfectSingleFamily.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5007587" vertical-offset="0" max-vertical-offset="7530">
-          <caret line="22" column="55" selection-start-line="22" selection-start-column="55" selection-end-line="22" selection-end-column="55" />
+        <state vertical-scroll-proportion="0.5168067" vertical-offset="141" max-vertical-offset="1110">
+          <caret line="34" column="50" selection-start-line="34" selection-start-column="50" selection-end-line="34" selection-end-column="50" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1474719" vertical-offset="0" max-vertical-offset="6000">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+          <folding>
+            <marker date="1409389161000" expanded="true" signature="1953:1966" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
