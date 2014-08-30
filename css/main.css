@@ -5,10 +5,10 @@ body {
     font-size: 12px;
     color: black;
     word-wrap: break-word;
+    text-align: center;
 }
 
 a {
-    text-align: center;
     text-decoration: none;
     color: black;
 }
@@ -17,22 +17,16 @@ a {
 p {
     text-align: left;
     font-size: 12px;
-    line-height: 24px;
+    line-height: 22px;
 }
-
-.alignmiddle {
-    text-align: center;
-}
-
 
 #main div{
     width: 100%;
     height: 600px;
     background-image: url('../img/bg01.gif');
     background-size: auto 100%;
-    background-position: center;
+    background-position: ;
     background-repeat: no-repeat;
-
 }
 
 .arrow{
@@ -57,7 +51,6 @@ hr {
     height: 1px;
     border-top: 1px solid #999999;
     margin: 20px 0;
-
 }
 
 .header {
@@ -65,18 +58,21 @@ hr {
     /* text-transform: uppercase; */
     z-index: 1;
     position: fixed;
-    height: 85px;
-    text-align: center;
     top: 0;
     left: 0;
     right: 0;
     color: white;
+    overflow: hidden;
+}
+
+.w-mywork{
+    display: block;
 }
 
 .menu {
-    height: 40px;
     border: 1px solid black;
-    background-color: rgba(0, 0, 0, 0.6)
+    background-color: rgba(0, 0, 0, 0.6);
+    text-transform: uppercase;
 }
 
 .menuleft {
@@ -87,8 +83,6 @@ hr {
     margin:10px;
     bottom: 60px;
 }
-
-
 
 header div a {
     padding: 0 20px;
@@ -125,16 +119,20 @@ header div a:active {
     text-align: center;
     line-height: 40px;
     color: white;
+    text-transform: uppercase;
 }
 
 .titlecontainer{
     margin: 10px;
+    /*border: 1px solid black;*/
+    padding: 64px 0 0 0;
 }
 
 
 .container {
-    margin: 50px auto;
+    margin: 30px auto;
 }
+
 
 .menuinheader{
     padding: 0 20px;
@@ -147,7 +145,6 @@ ul.liststyle li {
     padding: 20px;
     box-sizing: border-box;
     text-align: center;
-    margin-bottom: 25px;
 }
 
 ul.liststyle li .thumb {
@@ -158,24 +155,62 @@ ul.liststyle li .thumb {
     height: 300px;
 }
 
-ul.liststyle li .work001 {
-    background-image: url('../img/work/Artwork_A846007_8.png');
+
+ul.liststyle li .work131101 {
+    background-image: url('../img/work/1311_travellog/IMG_5119_2.jpg');
 }
 
-ul.liststyle li .work002 {
-    background-image: url('../img/work/onion.jpg');
-
+ul.liststyle li .work121101 {
+    background-image: url('../img/work/1211_Perfect_single_family/Artwork_A846007_8.png');
 }
 
-ul.liststyle li .work003 {
-    background-image: url('../img/work/Piecesofbrokenglass-mirakkong.jpg');
-
+ul.liststyle li .work120201 {
+    background-image: url('../img/work/1202_xd_lujingren/xd_mirakkong16.jpg');
 }
 
-ul.liststyle li .work004 {
-    background-image: url('../img/work/xd_mirakkong16.jpg');
-
+ul.liststyle li .work120210 {
+    background-image: url('../img/work/1202_omc_sitcafe/001.jpg');
 }
+
+
+ul.liststyle li .work111201 {
+    background-image: url('../img/work/1112_lghausys/IMG_9836.JPG');
+}
+
+ul.liststyle li .work110601 {
+    background-image: url('../img/work/1106_500diary/IMG_8667-01.jpg');
+}
+
+ul.liststyle li .work110501 {
+    background-image: url('../img/work/1105_gardenofdelight/IMG_9756-1.jpg');
+}
+
+ul.liststyle li .work110401 {
+    background-image: url('../img/work/1104_mirrorball/hongdae_mirakkong05.jpg');
+}
+ul.liststyle li .work110301 {
+    background-image: url('../img/work/1103_you_onion_me_mira/onion.jpg');
+}
+ul.liststyle li .work101001 {
+    background-image: url('../img/work/1010_discrepancy/05.jpg');
+}
+ul.liststyle li .work100001 {
+    background-image: url('../img/work/1000_finearts/Piecesofbrokenglass-mirakkong.jpg');
+}
+ul.liststyle li .work100002 {
+    background-image: url('../img/work/1000_finearts/mirrorball_mirakkong.jpg');
+}
+ul.liststyle li .work100003 {
+    background-image: url('../img/work/1000_finearts/aslide_mirakkong.jpg');
+}
+ul.liststyle li .work090001 {
+    background-image: url('../img/work/0900_railroad/railroad4_mirakkong.jpg');
+}
+ul.liststyle li .work090601 {
+    background-image: url('../img/work/0906_frame/frame8-mirakkong.jpg');
+}
+
+
 
 .textbold{
     font-weight: 600;
@@ -188,7 +223,7 @@ dt {
 
 dd {
     font-size: 11px;
-    margin: 8px 0 12px 0;
+    margin: 6px 0 10px 0;
 }
 
 .pointcolor{
@@ -197,6 +232,10 @@ dd {
 
 #profile ul.liststyle dl{
     text-align: left;
+    margin-bottom: 30px;
+}
+
+#profile img{
     margin-bottom: 30px;
 }
 
@@ -215,7 +254,6 @@ dd {
 #footer {
     background-color: black;
     padding: 20px 0;
-    text-align: center;
     line-height: 5;
 }
 
@@ -227,12 +265,12 @@ dd {
 /*web size*/
 @media only screen and (min-width: 65em) {
     .menuleft {
-        width: 276px;
+        width: 411px;
         float: left;
     }
 
     .menuright {
-        width: 369px;
+        width: 396px;
         float: right;
     }
 
@@ -266,6 +304,12 @@ dd {
 @media only screen and (min-width: 35em) and (max-width: 65em){
     ul.liststyle li {
         width: 50%;
+    }
+
+    #main div{
+        width: 100%;
+        background-size: 100% auto;
+        background-position: top center;
     }
 
 }
