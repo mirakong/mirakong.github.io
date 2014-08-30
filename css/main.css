@@ -82,6 +82,11 @@ hr {
 .menuright {
     margin:10px;
     bottom: 60px;
+    display: none;
+}
+
+.hiddenname{
+    display: none;
 }
 
 header div a {
@@ -155,26 +160,51 @@ ul.liststyle li .thumb {
     height: 300px;
 }
 
-
+ul.liststyle li .work140701 {
+    background-image: url('../img/work/1407_happy/20140702_happy_mv_net.mov_000166933.jpg');
+}
 ul.liststyle li .work131101 {
     background-image: url('../img/work/1311_travellog/IMG_5119_2.jpg');
 }
-
+ul.liststyle li .work130801 {
+    background-image: url('../img/work/1308_Indonesia/IMG_4176.JPG');
+}
+ul.liststyle li .work130701 {
+    background-image: url('../img/work/1307_japan/IMG_2613.JPG');
+}
 ul.liststyle li .work121101 {
-    background-image: url('../img/work/1211_Perfect_single_family/Artwork_A846007_8.png');
+    background-image: url('../img/work/1211_PerfectSinglefamily/perfectsinglefamily_01.png');
 }
 
-ul.liststyle li .work120201 {
-    background-image: url('../img/work/1202_xd_lujingren/xd_mirakkong16.jpg');
+ul.liststyle li .work120801 {
+    background-image: url('../img/work/1208_hongkong/hongkong08_mirakkong.com.jpg');
+}
+
+ul.liststyle li .work120401 {
+    background-image: url('../img/work/1204_philcebu/Cebu03_mirakkong.com.JPG');
+}
+
+ul.liststyle li .work120230 {
+    background-image: url('../img/work/1202_railro/IMG_0257.JPG');
 }
 
 ul.liststyle li .work120210 {
     background-image: url('../img/work/1202_omc_sitcafe/001.jpg');
 }
 
+ul.liststyle li .work120201 {
+    background-image: url('../img/work/1202_xd_lujingren/xd_mirakkong16.jpg');
+}
+
+
+
 
 ul.liststyle li .work111201 {
     background-image: url('../img/work/1112_lghausys/IMG_9836.JPG');
+}
+
+ul.liststyle li .work110701 {
+    background-image: url('../img/work/1107_railro/railro_mirakkkong04.JPG');
 }
 
 ul.liststyle li .work110601 {
@@ -191,8 +221,20 @@ ul.liststyle li .work110401 {
 ul.liststyle li .work110301 {
     background-image: url('../img/work/1103_you_onion_me_mira/onion.jpg');
 }
+ul.liststyle li .work110101 {
+    background-image: url('../img/work/1101_nepal/nepal_mirakkong11.JPG');
+}
 ul.liststyle li .work101001 {
-    background-image: url('../img/work/1010_discrepancy/05.jpg');
+    background-image: url('../img/work/1010_discrepancy/04.jpg');
+}
+ul.liststyle li .work100720 {
+    background-image: url('../img/work/1007_Europe/01spain_mirakkong_07.jpg');
+}
+ul.liststyle li .work100710 {
+    background-image: url('../img/work/1007_Europe/02france_mirakkong_03.jpg');
+}
+ul.liststyle li .work100701 {
+    background-image: url('../img/work/1007_Europe/04Czech_mirakkong_01.jpg');
 }
 ul.liststyle li .work100001 {
     background-image: url('../img/work/1000_finearts/Piecesofbrokenglass-mirakkong.jpg');
@@ -202,6 +244,12 @@ ul.liststyle li .work100002 {
 }
 ul.liststyle li .work100003 {
     background-image: url('../img/work/1000_finearts/aslide_mirakkong.jpg');
+}
+ul.liststyle li .work100201 {
+    background-image: url('../img/work/1002_china/beijing8-mirakkong.jpg');
+}
+ul.liststyle li .work100101 {
+    background-image: url('../img/work/1001_phil/phil_mirakkong_16.jpg');
 }
 ul.liststyle li .work090001 {
     background-image: url('../img/work/0900_railroad/railroad4_mirakkong.jpg');
@@ -272,8 +320,12 @@ dd {
     .menuright {
         width: 396px;
         float: right;
+        display: inline;
     }
 
+    .hiddenname{
+        display: inline;
+    }
 
     ul.liststyle li {
         width: 33.3%;
@@ -310,6 +362,10 @@ dd {
         width: 100%;
         background-size: 100% auto;
         background-position: top center;
+    }
+
+    .hiddenname{
+        display: inline;
     }
 
 }
